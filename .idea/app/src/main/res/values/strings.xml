@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">CovidApp</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="error_try_again" translatable="false">Error ! Try again</string>
+    <string name="text">Text</string>
+    <string name="history_Button">History</string>
+    <string name="statistics">STATISTICS</string>
+    <string name="cases_new">Cases-New</string>
+    <string name="cases_critical">Cases-Critical</string>
+    <string name="cases_recovered">Cases-Recovered</string>
+    <string name="deaths_total">Deaths-Total</string>
+    <string name="population">Population</string>
+    <string name="language">Language</string>
+</resources>
