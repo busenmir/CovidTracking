@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Arama</string>
+    <string name="text">text</string>
+    <string name="history_Button">Geçmiş</string>
+    <string name="statistics">istatistik</string>
+    <string name="cases_critical">Kritik Durumlar</string>
+    <string name="cases_recovered">Kurtulan Vakalar</string>
+    <string name="deaths_total">Toplam Ölüm</string>
+    <string name="population">Nüfus</string>
+    <string name="cases_new">Yeni Vaka</string>
+</resources>
